@@ -1,9 +1,5 @@
 #import "@preview/boxed-sheet:0.1.2": *
 
-#set text(font: (
-  "Liberation Serif",
-  "FreeSerif",
-))
 
 #let author = "Marini Mattia"
 #let title = "Python — Cheat Sheet"
